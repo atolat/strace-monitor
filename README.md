@@ -1,4 +1,6 @@
 # strace-monitor
+
+[![Join the chat at https://gitter.im/strace-monitor/Lobby](https://badges.gitter.im/strace-monitor/Lobby.svg)](https://gitter.im/strace-monitor/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Utility to monitor application code stack traces for performance optimization.
 
 Every application code maps to the OS user space and makes system calls. We can gather a ton of information from application code traces, and figure out how exactly an application's code interacts with the OS. A simple example is the trace of a "Hello World" in C and shell.
