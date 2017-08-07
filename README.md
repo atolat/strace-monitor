@@ -192,12 +192,10 @@ The first task is to figure out how to gather and ship these stack traces to an 
 
 
 Resources/Links
->Strace
-
+Strace
 http://www.brendangregg.com/blog/2014-05-11/strace-wow-much-syscall.html
 http://chadfowler.com/2014/01/26/the-magic-of-strace.html
 
->OS
-
+OS
 http://pages.cs.wisc.edu/~remzi/OSTEP/
 
