@@ -191,11 +191,10 @@ A quick look at the traces indicates a precompiled C program is much lighter on 
 The first task is to figure out how to gather and ship these stack traces to an analytics engine/stack (ELK maybe...) and then as we learn more about the OS and system calls, we should be able to make more sense of the stack traces!
 
 
-#Resources/Links
-#Strace
+# Strace
 http://www.brendangregg.com/blog/2014-05-11/strace-wow-much-syscall.html
 http://chadfowler.com/2014/01/26/the-magic-of-strace.html
 
-#OS
+# OS
 http://pages.cs.wisc.edu/~remzi/OSTEP/
 
